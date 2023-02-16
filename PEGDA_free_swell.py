@@ -125,7 +125,7 @@ MATERIAL PARAMETERS
 
 # Mechanical parameters
 Gshear  = 1.e3                   # Shear modulus
-Kbulk   = 1000.0e3               # Bulk modulus
+Kbulk   = 10.0e3               # Bulk modulus
 # Chemo-mechanical parameters
 Omega   = 1.8e-5                 # fluid molecular volume
 D       = 2.0e0                  # Diffusivity
